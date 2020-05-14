@@ -1,8 +1,8 @@
-# Web3_Justice_Denitsa
+# Web3
 
    There are three types of user, visitor, admin and user.
    To access the admin account use for email admin@hotmail.com and for password "secret".
-   Admin is able to export all the users to exel file and upload/delete movies with watermark.
+   Admin is able to export all the users to excel file and upload/delete movies with watermark.
    When opening the exel file rember to enable the editing
    
    When reseting the password, Mail username and password are required in the env file
